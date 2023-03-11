@@ -1,0 +1,42 @@
+@media (max-width: 670px) {
+  .nav-logo h1 {
+    font-size: 20px;
+  }
+  .nav-list li {
+    font-size: 15px;
+  }
+  .content {
+    width: 670px;
+    border-radius: 0;
+    border-top: 0;
+    margin: 20px;
+    padding: 25px;
+  }
+  .content_name h1 {
+    font-size: 30px;
+  }
+
+  .content_name p {
+    font-size: 20px;
+  }
+  .aboutme {
+    width: 670px;
+    margin: 20px;
+    padding: 25px;
+  }
+  .proyek {
+    width: 670px;
+    margin: 20px;
+    padding: 25px;
+  }
+  .ogambar img {
+    width: 200px;
+    height: 200px;
+    margin: 0px 10px;
+  }
+  footer {
+    width: 670px;
+    margin: 20px;
+    padding: 40px 5px 40px 30px;
+  }
+}
